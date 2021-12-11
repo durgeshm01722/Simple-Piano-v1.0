@@ -11,11 +11,5 @@ https://www.linkedin.com/posts/durgesh-mahajan-99bab0212_softwaredevelopment-uiu
 
 <br>
 
-## Stats - 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&repo=durgeshm01722/Simple-Piano-v1.0&layout=compact&show_icons=true&theme=radical"><br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=durgeshm01722&repo=durgeshm01722/Simple-Piano-v1.0&repo=durgeshm01722&show_owner=true&show_icons=true&theme=radical">
-
-<br>
-
 ## Screenshot
 <img src="ss/piano_ss.png">
